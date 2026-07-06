@@ -61,7 +61,7 @@ Flood-Prediction-System/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Flood-Prediction-System.git
+git clone https://github.com/mahadara-98/Rising-Waters.git
 ```
 
 2. Install the required libraries
@@ -114,17 +114,6 @@ The application predicts:
 - Interactive dashboard
 - GIS-based flood visualization
 - Mobile application support
-
----
-
-## 👥 Team Members
-
-- Your Name
-- Team Member 2
-- Team Member 3
-- Team Member 4
-
----
 
 ## 📜 License
 
