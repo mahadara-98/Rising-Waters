@@ -17,6 +17,12 @@ The Flood Prediction System is a Machine Learning-based web application that pre
 - Responsive and simple interface.
 
 ---
+## 👥 Team Members
+1. DARA MAHA
+2. RUPASRI LAKSHMI KONDAMUDI
+3. HANIFA SHAIK
+4. ANJANI PRIYA NAKKA
+5. SAMEERA MANDA
 
 ## 🛠 Technologies Used
 
